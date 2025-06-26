@@ -1,0 +1,74 @@
+﻿@model Character
+@{
+	ViewData["Title"] = "Edit Character";
+}
+<form method="post" asp-action="Edit">
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2 class="text-primary">Edit Character</h2>
+			<hr />
+		</div>
+		@* <div asp-validation-summary="All"></div> *@
+		<div class="mb-3 row">
+			<div class="col-md-2 w-50">
+				<label asp-for="Name"></label>
+				<input asp-for="Name" class="form-control" />
+				<span asp-validation-for="Name" class="text-warning"></span>
+			</div>
+			<div class="col-md-2">
+				<label asp-for="Class"></label>
+				<input asp-for="Class" class="form-control" />
+				<span asp-validation-for="Class" class="text-warning"></span>
+			</div>
+			<div class="col-md-2">
+				<label asp-for="Level"></label>
+				<input asp-for="Level" class="form-control" />
+				<span asp-validation-for="Level" class="text-warning"></span>
+			</div>
+		</div>
+
+		<div class="mb-3 row">
+			<div class="col-md-2 w-33">
+				<label asp-for="CurrentHP"></label>
+				<input asp-for="CurrentHP" class="form-control" />
+				<span asp-validation-for="CurrentHP" class="text-warning"></span>
+			</div>
+			<div class="col-md-2 w-33">
+				<label asp-for="MaxHP"></label>
+				<input asp-for="MaxHP" class="form-control" />
+				<span asp-validation-for="MaxHP" class="text-warning"></span>
+			</div>
+			<div class="col-md-2 w-33">
+				<label asp-for="ArmorClass"></label>
+				<input asp-for="ArmorClass" class="form-control" />
+				<span asp-validation-for="ArmorClass" class="text-warning"></span>
+			</div>
+		</div>
+
+		<div class="mb-3 row">
+			<div class="col-md-2 w-33">
+				<label asp-for="Initiative"></label>
+				<input asp-for="Initiative" class="form-control" />
+				<span asp-validation-for="Initiative" class="text-warning"></span>
+			</div>
+			<div class="col-md-2 w-33">
+				<label asp-for="Speed"></label>
+				<input asp-for="Speed" class="form-control" />
+				<span asp-validation-for="Speed" class="text-warning"></span>
+			</div>
+			<div class="col-md-2 w-33">
+				<label asp-for="ProficiencyBonus"></label>
+				<input asp-for="ProficiencyBonus" class="form-control" />
+				<span asp-validation-for="ProficiencyBonus" class="text-warning"></span>
+			</div>
+		</div>
+		<button type="submit" class="btn btn-primary" style="width:150px">Update</button>
+		<a asp-controller="Character" asp-action="Index" class="btn btn-secondary" style="width:150px"> Back to List</a>
+	</div>
+</form>
+
+@section Scripts{
+	@{
+		<partial name="_ValidationScriptsPartial"></partial>
+	}
+}

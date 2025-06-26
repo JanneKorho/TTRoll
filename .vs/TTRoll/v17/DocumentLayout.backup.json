@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Coding\\ASP\\TTRoll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|f:\\coding\\asp\\ttroll\\ttroll\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|solutionrelative:ttroll\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|f:\\coding\\asp\\ttroll\\ttroll\\views\\character\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|solutionrelative:ttroll\\views\\character\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|f:\\coding\\asp\\ttroll\\ttroll\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|solutionrelative:ttroll\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|f:\\coding\\asp\\ttroll\\ttroll\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|solutionrelative:ttroll\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|f:\\coding\\asp\\ttroll\\ttroll\\views\\character\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|solutionrelative:ttroll\\views\\character\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|f:\\coding\\asp\\ttroll\\ttroll\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|solutionrelative:ttroll\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|f:\\coding\\asp\\ttroll\\ttroll\\views\\character\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|solutionrelative:ttroll\\views\\character\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|f:\\coding\\asp\\ttroll\\ttroll\\views\\character\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|solutionrelative:ttroll\\views\\character\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|f:\\coding\\asp\\ttroll\\ttroll\\controllers\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EEB62B-13B0-46B6-A0FF-AFFB3DD8F1C8}|TTRoll\\TTRoll.csproj|solutionrelative:ttroll\\controllers\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\appsettings.json",
+              "RelativeDocumentMoniker": "TTRoll\\appsettings.json",
+              "ToolTip": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\appsettings.json",
+              "RelativeToolTip": "TTRoll\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T16:29:21.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TTRoll\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TTRoll\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T11:39:19.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Views\\Character\\Create.cshtml",
+              "RelativeDocumentMoniker": "TTRoll\\Views\\Character\\Create.cshtml",
+              "ToolTip": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Views\\Character\\Create.cshtml",
+              "RelativeToolTip": "TTRoll\\Views\\Character\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T10:01:15.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Views\\Character\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TTRoll\\Views\\Character\\Edit.cshtml",
+              "ToolTip": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Views\\Character\\Edit.cshtml",
+              "RelativeToolTip": "TTRoll\\Views\\Character\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T14:11:41.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Views\\Character\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TTRoll\\Views\\Character\\Delete.cshtml",
+              "ToolTip": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Views\\Character\\Delete.cshtml",
+              "RelativeToolTip": "TTRoll\\Views\\Character\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T13:48:25.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CharacterController.cs",
+              "DocumentMoniker": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Controllers\\CharacterController.cs",
+              "RelativeDocumentMoniker": "TTRoll\\Controllers\\CharacterController.cs",
+              "ToolTip": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Controllers\\CharacterController.cs",
+              "RelativeToolTip": "TTRoll\\Controllers\\CharacterController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:25:56.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Views\\Character\\Index.cshtml",
+              "RelativeDocumentMoniker": "TTRoll\\Views\\Character\\Index.cshtml",
+              "ToolTip": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Views\\Character\\Index.cshtml",
+              "RelativeToolTip": "TTRoll\\Views\\Character\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T14:28:49.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character.cs",
+              "DocumentMoniker": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "TTRoll\\Models\\Character.cs",
+              "ToolTip": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Models\\Character.cs",
+              "RelativeToolTip": "TTRoll\\Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:12:46.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TTRoll\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Coding\\ASP\\TTRoll\\TTRoll\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TTRoll\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:45:18.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

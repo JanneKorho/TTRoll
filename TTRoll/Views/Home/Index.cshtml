@@ -1,0 +1,100 @@
+﻿@model IEnumerable<Character>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .container {
+            display: grid;
+            grid-template-columns: auto auto auto;
+            padding: 10px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .container > div {
+            background-color: #f1f1f1;
+            border: 1px solid black;
+            padding: 10px;
+            font-size: 30px;
+        }
+
+        .selectContainer {
+            display: grid;
+            grid-template-columns: 10% 10% 10%;
+            float: left;
+            padding: 10px;
+            width: 100%;
+            height: auto;
+        }
+
+        .selectContainer > div {
+            background-color: #f1f1f1;
+            border: 1px solid black;
+            font-size: 16px;
+            height: 100px;
+            width: auto;
+            text-align: center;
+        }
+
+        .selectContainer > textarea {
+            position: absolute;
+            width: 55%;
+            height: 50%;
+            left: 32%
+        }
+
+        .button {
+            float: right;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container text-primary">
+        <div>Name</div>
+        <div>Level + Class </div>
+        <div>CurHp / MaxHp</div>
+        <div>Speed<div>(Speed here)</div></div>
+        <div>AC<div>(AC here)</div></div>
+        <div>Prof. bonus<div>(Bonus here)</div></div>
+    </div>
+
+    <div class="selectContainer">
+        <div>
+            <label for="attributes">Attribute</label>
+
+            <select name="attributes" id="attributes">
+                <option value="strength">Strength (mod)</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="advantage"> Advantage</label><br>
+            <input type="checkbox" id="advantage" name="advantage" value="Bike">
+        </div>
+
+        <div></div>
+
+        <div>Skills (dd)</div>
+        <div>Damage die (dd)</div>
+        <div>
+            <button type="button" onclick="alert('Rolled')">ROLL</button>
+        </div>
+        <div>Misc. (dd)</div>
+        <div>Die count (dd)</div>
+        <div></div>
+        <div></div>
+        <div>Damage mod.</div>
+        <div></div>
+        <textarea>
+            Rolls go here!
+        </textarea>
+
+    </div>
+
+</body>
+</html>
